@@ -104,15 +104,12 @@ SAP UI5 & Fiori based enterprise student registration application.
 </p>
 
 
-## 🌸 Growth Garden
+## 🌷 Growth Garden
 
-<p align="center">
-  <img width="700" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR0M2x0dWVvODd6b2R5aGFmZDB2MnQ2a3pkcHdhZWQ0aWJ4OW1iNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif">
-</p>
-
-<p align="center">
-🌱 Learning • Building • Growing Every Day ✨
-</p>
+```diff
++ 🌱 Learning SAP RAP & Enterprise Architecture
++ 🌿 Building Full Stack Applications
++ 🌸 Growing Through Consistent Development
 
 ---
 
