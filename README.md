@@ -103,6 +103,17 @@ SAP UI5 & Fiori based enterprise student registration application.
 </a>
 </p>
 
+
+## 🌱 Growth Garden
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+<p align="center">
+🌱 Keep growing, one commit at a time ✨
+</p>
+
 ---
 
 <p align="center">
