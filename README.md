@@ -102,15 +102,6 @@ SAP UI5 & Fiori based enterprise student registration application.
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
-## 🌱 Growth Garden
-
-<p align="center">
-  🪴 &nbsp;&nbsp; 🌱 &nbsp;&nbsp; 🌿 &nbsp;&nbsp; ☘️ &nbsp;&nbsp; 🌷 &nbsp;&nbsp; 🌸 &nbsp;&nbsp; 🌺
-</p>
-
-<p align="center">
-  <b>Keep going, great things take time.</b> 💖
-</p>
 
 <p align="center">
   ✨ Building solutions that make an impact ✨
