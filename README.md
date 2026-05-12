@@ -102,16 +102,27 @@ SAP UI5 & Fiori based enterprise student registration application.
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
+## 🌱 Growth Garden
 
+<p align="center">
+  <img src="https://img.icons8.com/emoji/48/000000/watering-can.png" width="55"/>
 
-## 🌷 Growth Garden
+  <img src="https://img.icons8.com/emoji/48/000000/seedling.png" width="40"/>
 
-```diff
-+ 🌱 Learning SAP RAP & Enterprise Architecture
-+ 🌿 Building Full Stack Applications
-+ 🌸 Growing Through Consistent Development
+  <img src="https://img.icons8.com/emoji/48/000000/herb.png" width="50"/>
 
----
+  <img src="https://img.icons8.com/emoji/48/000000/deciduous-tree.png" width="60"/>
+
+  <img src="https://img.icons8.com/emoji/48/000000/tulip.png" width="55"/>
+
+  <img src="https://img.icons8.com/emoji/48/000000/cherry-blossom.png" width="60"/>
+
+  <img src="https://img.icons8.com/emoji/48/000000/hibiscus.png" width="65"/>
+</p>
+
+<p align="center">
+  <b>Keep going, great things take time.</b> 💖
+</p>
 
 <p align="center">
 ✨ Building solutions that make an impact ✨
