@@ -105,19 +105,7 @@ SAP UI5 & Fiori based enterprise student registration application.
 ## 🌱 Growth Garden
 
 <p align="center">
-  <img src="https://img.icons8.com/emoji/48/000000/watering-can.png" width="55"/>
-
-  <img src="https://img.icons8.com/emoji/48/000000/seedling.png" width="40"/>
-
-  <img src="https://img.icons8.com/emoji/48/000000/herb.png" width="50"/>
-
-  <img src="https://img.icons8.com/emoji/48/000000/deciduous-tree.png" width="60"/>
-
-  <img src="https://img.icons8.com/emoji/48/000000/tulip.png" width="55"/>
-
-  <img src="https://img.icons8.com/emoji/48/000000/cherry-blossom.png" width="60"/>
-
-  <img src="https://img.icons8.com/emoji/48/000000/hibiscus.png" width="65"/>
+  🪴 &nbsp;&nbsp; 🌱 &nbsp;&nbsp; 🌿 &nbsp;&nbsp; ☘️ &nbsp;&nbsp; 🌷 &nbsp;&nbsp; 🌸 &nbsp;&nbsp; 🌺
 </p>
 
 <p align="center">
@@ -125,5 +113,6 @@ SAP UI5 & Fiori based enterprise student registration application.
 </p>
 
 <p align="center">
-✨ Building solutions that make an impact ✨
+  ✨ Building solutions that make an impact ✨
 </p>
+
